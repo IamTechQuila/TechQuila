@@ -1,4 +1,4 @@
-# TechQuila - Hi, I'm Tapas 👋 (https://www.linkedin.com/in/tapaskuila/)
+# TechQuila - Hi, this is Tapas 👋
 
 ## 🌾 Who I am
 
@@ -6,7 +6,7 @@ I'm the founder of **Entwin**, your entangled twin: it remembers everything for 
 
 ## 🛠️ What I'm building
 
-Entangled twins for the non-tech-savvy founders and SME owners, that carry your linguistic footprint and contextual memory to recreate your personality traits, effectively becoming an AI assistant that does not simply work for you, but "as you". My vision is to use AI to build tools to solve real-world use cases, especially in the Global South. Have ideas? Reach out
+Entangled twins for the non-tech-savvy founders and SME owners, that carry your linguistic footprint and contextual memory to recreate your personality traits, effectively becoming an AI assistant that does not simply work for you, but "as you". My vision is to use AI to build tools to solve real-world use cases, especially in the Global South. Have ideas? Reach out ((https://www.linkedin.com/in/tapaskuila)
 
 ## 📚 What I'm learning right now
 
